@@ -1,2 +1,2 @@
 * linguist-vendored
-*.h linguist-vendored=false
+*.dart linguist-vendored=false
