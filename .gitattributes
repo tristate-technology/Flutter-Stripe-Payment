@@ -1,5 +1,2 @@
 * linguist-vendored
 *.h linguist-vendored=false
-*.m linguist-vendored=false
-*.java linguist-vendored=false
-*.kt linguist-vendored=false
